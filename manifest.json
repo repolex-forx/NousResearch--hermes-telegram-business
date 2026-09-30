@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-telegram-business",
+  "versions": [
+    {
+      "commit": "98c60afc00d36c885bb040ebe973b1aa908886c0",
+      "parsed_at": "2026-09-30T07:09:21.163338+00:00",
+      "tag": "main",
+      "filetree": "filetree/98c60afc00d36c885bb040ebe973b1aa908886c0.nq.gz",
+      "blobs": [
+        "blob/75410e73319c72cd3e991a501c5455eb78f38375.nq.gz",
+        "blob/005051938234322cebd8b8f79300688239d25f27.nq.gz",
+        "blob/54974bce2ab1c0b95e2e7104d9720fb6b610c100.nq.gz",
+        "blob/65c4539bb8ed787b4c6c82144f828b6c03e428d1.nq.gz",
+        "blob/ce62c5b832b5256dbf5d344450906f37cc3968e9.nq.gz",
+        "blob/a2efc66815503da82a0d03c5504e1db234c62b55.nq.gz",
+        "blob/8728fd8c8e1f8891a7d2754c0ea9abd032d5a1d5.nq.gz",
+        "blob/8d4b1062a696cbb392047fd221ca0827fc9f64f2.nq.gz",
+        "blob/4095dce9c7f601267a8960d88d4259933932b0ad.nq.gz",
+        "blob/2881b974da44dae31d25824b3eac1198ba176c82.nq.gz",
+        "blob/e78a8541ebad175483a7b07f27bedc6d3d88f088.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
