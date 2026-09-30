@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-telegram-business/commit/98c60afc00d36c885bb040ebe973b1aa908886c0",
       "git:hexsha": "98c60afc00d36c885bb040ebe973b1aa908886c0",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-09-30T07:13:31.848396+00:00"
     }
   ]
 }
